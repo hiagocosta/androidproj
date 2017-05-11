@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unimep Avisa</string>
+    <string name="BtnComunica">Comunicação</string>
+    <string name="BtnTransportes">Transportes</string>
+    <string name="BtnMapa">Mapa</string>
+    <string name="BtnOpina">Opinar</string>
+
+</resources>
